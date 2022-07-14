@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Wallpaper 1",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/athena/main/athena_01.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/athena/main/thumbnails/thumb_athena_01.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 2",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/athena/main/athena_02.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/athena/main/thumbnails/thumb_athena_02.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 3",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/athena/main/athena_03.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/athena/main/thumbnails/thumb_athena_03.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 4",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/athena/main/athena_04.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/athena/main/thumbnails/thumb_athena_04.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 5",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/athena/main/athena_05.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/athena/main/thumbnails/thumb_athena_05.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 6",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/athena/main/athena_06.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/athena/main/thumbnails/thumb_athena_06.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 7",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/athena/main/athena_x_blue.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/athena/main/thumbnails/thumb_athena_x_blue.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 8",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/athena/main/athena_x_dark.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/athena/main/thumbnails/thumb_athena_x_dark.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 9",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/athena/main/athena_x_green.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/athena/main/thumbnails/thumb_athena_x_green.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Wallpaper 10",
+    "author": "One4Studio",
+    "url": "https://raw.githubusercontent.com/one4studio/athena/main/athena_x_purple.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/one4studio/athena/main/thumbnails/thumb_athena_x_purple.jpg",
+    "downloadable": true
+  }
+]
